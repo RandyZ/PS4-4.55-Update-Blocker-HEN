@@ -6,6 +6,8 @@ This Payload contains Spoofer, Update Blocker, and HEN in 1!
 
 Added HEN For 4.55
 
+Added UART
+
 Added Spoofer for 4.55
 
 Optimized for DNS Servers
